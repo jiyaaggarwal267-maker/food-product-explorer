@@ -67,4 +67,7 @@ The application fetches data from the **[OpenFoodFacts API](https://world.openfo
 ## How to Run
 1. Clone the repository:
    ```bash
+   
    git clone <repository-link>
+
+   Time Taken to complete this assignment was: 4-5 hours.
